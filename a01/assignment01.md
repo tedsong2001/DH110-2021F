@@ -9,4 +9,4 @@ purpose of the assignment -- 3-5 sentences what you want to show via this assign
 
 https://nv.gov/
 
-![Website of Nevada Government](arizonaGovWebsite.png)
+![Website of Nevada Government](nevadaGovWebsite.png)
