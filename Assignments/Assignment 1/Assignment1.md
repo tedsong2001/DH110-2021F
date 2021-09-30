@@ -119,14 +119,16 @@ Overall, the website struggles to satisfy the 10 usability heuristics. The site 
 #### 5. Error Prevention (Severity Rating: 1)
 - When putting in the wrong information for login, the website displays an error message that the incorrect login information was put in. This is a huge plus because it informs the user that they put in the wrong information and allows them a chance to correct the mistake. I have no recommendations regarding this category.
 
-#### 6. Recognition Rather Than Recall
+#### 6. Recognition Rather Than Recall (Severity Rating: 3)
+- Because there is so much text and information on each page of the site, the user will struggle to remember where certain links are. Furthermore, the excessive text would not allow the user to recognize anything. I would suggest re-organizing the features of the website in a simpler way and condensing the amount of information on each page.
 
 #### 7. Flexibility and Efficiency of Use (Severity Rating: 3)
-- There aren't much shortcuts for experienced users to employ. Thus, the website struggles to accomodate for experienced users. I would recommend adding more shortcuts 
+- There aren't much shortcuts for experienced users to employ. Thus, the website struggles to accomodate for experienced users. I would recommend adding more shortcuts that would make navigating important pages quicker.
 
 #### 8. Aesthetic and Minimalist Design (Severity Rating: 3)
 - Many of the sites have too much text crammed into the site. This is bad for the user because it makes it hard to read the information provided on the website. I would recommend using a bigger font size.
 - The website also looks tacky. This would generate a lack of appeal to users and make the experience of navigating the website unenjoyable. I would suggest redesigning the site so it looks more modern and simpler.
+- There is also too much text on each page of the site, making it difficult for the reader to read and understand the text for each page. I would suggest removing unnecessary information or condensing the amount of information on each page.
 
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors (Severity Rating: 1)
 - With login information, the system provides an error message and provides step-by-step instruction when someone forgets their password. I have no recommendations regarding this category.
