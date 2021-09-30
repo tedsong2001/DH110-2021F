@@ -44,7 +44,10 @@
   The Nevada Gaming Commission and Gaming Control Board is responsible for enforcing policies and laws that help to regulate gaming in the state of Nevada. Their website provides information about laws, regulations, licenses, and news regarding gaming in Nevada.
   
   ![Nevada Gaming Commission and Gaming Control Board](nvGamingSite.png)
-  
+ 
+ ### Overall Evaluation
+ Overall, the website struggles with satisfying the 10 usability heuristics. Primarily, the site needs to organize its link better and should undergo a redesign because of its potential to confuse users easily.
+ 
  ### Heuristic Evaluation
  #### 1. Visibility of System Status (Severity Rating: 1)
  - When the user hovers over a certain menu feature, the feature darkens. This feedback is a major plus because it informs the user that the menu feature can be clicked and will direct to another site.
@@ -83,3 +86,5 @@
 #### 10. Help and Documentation (Severity Rating: 3)
 - There is a "I Want To..." section that is very accessible. So, if a user gets lost or does not know which link to go, the user can use this section to navigate the site. This is a huge benefit of the website.
 - However, the site would still benefit from having an FAQ section just in case there is an error when they are using the site. The "I Want To..." section only directs the user to a certain website, but does not provide any steps in the case there is an error. I would suggest to add a FAQ section that provides steps for error cases.
+
+## Website 2: [Nevada State Board of Accountancy](https://www.nvaccountancy.com)
