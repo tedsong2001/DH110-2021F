@@ -39,6 +39,30 @@
   ### 10. Help and Documentation
   - In the case that users need extra help, help documentation should be easily noticeable and should provide steps that help the user perform an action.
 
-## Website 1: Nevada Gaming Commission and Gaming Control Board (https://gaming.nv.gov/index.aspx?page=1)
- ### 1. Visibility of System Status
- 
+## Website 1: [Nevada Gaming Commission and Gaming Control Board](https://gaming.nv.gov/index.aspx?page=1)
+  ### Description
+  The Nevada Gaming Commission and Gaming Control Board is responsible for enforcing policies and laws that help to regulate gaming in the state of Nevada. Their website provides information about laws, regulations, licenses, and news regarding gaming in Nevada.
+  
+ ### Heuristic Evaluation
+ #### 1. Visibility of System Status (Severity Rating: 1)
+ - When the user hovers over a certain menu feature, the feature darkens. This feedback is a major plus because it informs the user that the menu feature can be clicked and will direct to another site.
+ - The search bar is not really helpful because, when the user types words or phrases, there are no suggestions, leaving the user confused as to whether their topic of interest is searchable. To solve this, I would recommend to provide suggestions as the user types in the search bar.
+
+ #### 2. Match Between the System and the Real World (Severity Rating: 3)
+ - The menu of the website uses common, familiar phrases like "About Us", "Gaming Commission", "Divisions", and "Human Resources", which are a plus because users will be easily able to navigate the website.
+ - However, a severe problem is that a link in one menu option directs the user to the other menu option. For example, a link listed under "Gaming Commission" is also under "Divisions", which will confuse the user since they will not know which menu option is correct for certain links. I would recommend organizing the links correctly.
+
+#### 3. User Control and Freedom (Severity Rating: 3)
+- As mentioned in the problem in Heuristic #2, some links direct the user to another menu option. For example, clicking "Commission Meeting" under "Gaming Commission" option directs the user to "About Us" page. So, if the user mistakingly clicks on another link, the menu bar on the left side will show a page, making it difficult and confusing to go to the desired page.
+
+#### 4. Consistency and Standards (Severity Rating: 1)
+- The share, feedback, print button on some pages of the website is consistent in other platforms, which makes the website usable and somewhat familiar.
+- Although the icons may look a bit outdated, the website is still usable because word descriptions are provided.
+
+#### 5. Error Prevention (Severity Rating: 2)
+- Clicking on "Americans with Disabilities Act" link directs the user to a different website on a new tab. A user may accidentally click this link, so I would recommend displaying a pop-up box that warns the user that they will be leaving the Gaming Commission and Gaming Control Board site.
+
+#### 6. Recognition Rather Than Recall (Severity Rating: 3)
+- Some of the sites under one menu option will be listed under a different menu option, as described in Heuristic #2 and #3, which forces the user to recall where sites are. To solve this, I would recommend organizing links better and put them under the correct menu options.
+
+#### 7. 
