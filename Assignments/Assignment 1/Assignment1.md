@@ -88,3 +88,48 @@
 - However, the site would still benefit from having an FAQ section just in case there is an error when they are using the site. The "I Want To..." section only directs the user to a certain website, but does not provide any steps in the case there is an error. I would suggest to add a FAQ section that provides steps for error cases.
 
 ## Website 2: [Nevada State Board of Accountancy](https://www.nvaccountancy.com)
+
+### Description
+The website for the Nevada State Board of Accountancy is a site that collects information about Nevada's certified Certified Public Accountants (CPAs) and provides links and information regarding CPAs. 3
+
+![Nevada State Board of Accountancy](nvAccountancy.png)
+
+### Overall Evaluation
+Overall, the website struggles to satisfy the 10 usability heuristics. The site primarily struggles due to its cluttered appearance. A full re-design would be recommended. 
+
+### Heuristic Evaluation
+#### 1. Visibility of System Status (Severity Rating: 1)
+- When the user hovers around links, the font color changes from black to blue, which is a plus. This allows the user to know which words lead to a different site.
+- When the user uses the search bar, suggestions show immediately, which is also a plus. This allows the user to easily find someone they are looking for in the search bar.
+- I have no recommendations regarding this category.
+
+#### 2. Match Between the System and the Real World (Severity Rating: 1)
+- The website uses words and phrases that would be familiar to users. This allows the user to easily navigate the side because the familiar words would allow them to easily understand the purpose of certain links.
+- I have no recommendations regarding this category.
+
+#### 3. User Control and Freedom (Severity Rating: 1)
+- If the user inputs the wrong name in the search bar, the site informs the user that the name is not in the database and allows the user to re-search. This is beneficial because it allows the user to correct their mistake.
+- Another strength of the site is that its simple design makes navigation very easy. If the user corrects a link by mistake, they can simple press the back button to go back without any repurcussion.
+- I have no recommendations regarding this category.
+
+#### 4. Consistency and Standards (Severity Rating: 3)
+- There are several links that create a new tab and direct the user to a new website. Other platforms use a box with an arrow pointing out to signify such links. I would recommend the site to use such an icon to signify links that open a new tab and direct the user to a different website.
+- This website has a menu bar at the top and menu bar at the side. Other websites typically only have one, usually the menu bar at the top. If there are too many menu bars, it can overwhelm the user and can be taxing for users to navigate the website. I would recommend opting for only one menu bar at the top of the website.
+
+#### 5. Error Prevention (Severity Rating: 1)
+- When putting in the wrong information for login, the website displays an error message that the incorrect login information was put in. This is a huge plus because it informs the user that they put in the wrong information and allows them a chance to correct the mistake. I have no recommendations regarding this category.
+
+#### 6. Recognition Rather Than Recall
+
+#### 7. Flexibility and Efficiency of Use (Severity Rating: 3)
+- There aren't much shortcuts for experienced users to employ. Thus, the website struggles to accomodate for experienced users. I would recommend adding more shortcuts 
+
+#### 8. Aesthetic and Minimalist Design (Severity Rating: 3)
+- Many of the sites have too much text crammed into the site. This is bad for the user because it makes it hard to read the information provided on the website. I would recommend using a bigger font size.
+- The website also looks tacky. This would generate a lack of appeal to users and make the experience of navigating the website unenjoyable. I would suggest redesigning the site so it looks more modern and simpler.
+
+#### 9. Help Users Recognize, Diagnose, and Recover from Errors (Severity Rating: 1)
+- With login information, the system provides an error message and provides step-by-step instruction when someone forgets their password. I have no recommendations regarding this category.
+
+#### 10. Help and Documentation (Severity Rating: 3)
+- There is no page on the website where the user can go when they are lost. This will be bad for the user since there is no place for them to get the help they need. So, I suggest that a FAQ or Help page be created to direct users to take certain steps in case they are lost when navigating the site.
