@@ -14,6 +14,6 @@ The excessive amount of information on the website would also create potential p
 To investigate this potential problem, users were asked to search for specific links on the menu bar to test whether their recognition of menu names corresponded with the location of the link (for example, recognizing the "Exam" menu and then expecting to find the "CPA Exam Education Req." link).
 
 ## Links
-- [UT Survey](https://docs.google.com/forms/d/1ai3fL4RrOHbGPT53gS4uzpDL_c2qIkTyiBsdimI3Hnc/edit?usp=sharing)
-- [Pilot UT Video](https://drive.google.com/file/d/1XMbGC9IlN_L0e3MbrUfHKMRbB3O2Ndco/view?usp=sharing)
+- ![UT Survey](https://docs.google.com/forms/d/1ai3fL4RrOHbGPT53gS4uzpDL_c2qIkTyiBsdimI3Hnc/edit?usp=sharing)
+- ![Pilot UT Video](https://drive.google.com/file/d/1XMbGC9IlN_L0e3MbrUfHKMRbB3O2Ndco/view?usp=sharing)
 
