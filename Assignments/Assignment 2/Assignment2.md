@@ -2,7 +2,7 @@
 ### Ted Song | Digital Humanities 110: User Experience and Design
 
 ## Purpose Behind Usability Testing
-This usability testing (UT) intends to gauge how people react to the current design of the [website](www.nvaccountancy.com).
+This usability testing (UT) intends to gauge how people react to the current design of the [website](https://www.nvaccountancy.com/).
 The UT also intends to find out what type of problems the user bumps into, which signifies what designers should fix.
 One problem with the website was that there was a menu bar on the left side that lists all the links.
 This would create potential problems with consistency and standards since most websites typically have the menu bar at the top that expands when the user hovers over it.
@@ -15,4 +15,5 @@ To investigate this potential problem, users were asked to search for specific l
 
 ## Links
 - [UT Survey](https://docs.google.com/forms/d/1ai3fL4RrOHbGPT53gS4uzpDL_c2qIkTyiBsdimI3Hnc/edit?usp=sharing)
-- 
+- [Pilot UT Video](https://drive.google.com/file/d/1XMbGC9IlN_L0e3MbrUfHKMRbB3O2Ndco/view?usp=sharing)
+
