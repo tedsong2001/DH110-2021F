@@ -17,3 +17,5 @@ To investigate this potential problem, users were asked to search for specific l
 - [UT Survey](https://docs.google.com/forms/d/1ai3fL4RrOHbGPT53gS4uzpDL_c2qIkTyiBsdimI3Hnc/edit?usp=sharing)
 - [Pilot UT Video](https://drive.google.com/file/d/1XMbGC9IlN_L0e3MbrUfHKMRbB3O2Ndco/view?usp=sharing)
 
+## Reflection
+From the UT, I learned that there was too much information for each webpage. I also learned that the website struggled with a mismatch between system and real world in that "License Renewal" was under "Licensing" but it was actually under "Renewal / Compliance". What well during the UT was that the user generally followed directions very well, but there was a confusion with one of the tasks because I wrote the question poorly. I hope to improve the UT by including more diverse tasks because the similarity of all three tasks made it limited when it came to analyzing other problems to fix. I also hope to add better questions for future UT.
