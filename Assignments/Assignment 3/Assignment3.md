@@ -35,6 +35,22 @@ I chose to conduct a interview research.
 
 [Link to the interview recording](https://drive.google.com/file/d/1AidSGXgoEfsFj8fCru8DyhERVUJ5MkTm/view?usp=sharing)
 
-Link to the interview transcription 
+[Link to the interview transcription](https://docs.google.com/document/d/1siw0NmMnPHEugIO-OXoBEYD9lYPwguE1f4mnEULDZb4/edit?usp=sharing)
+
+## Observations
+### About General Experience with Searching Careers
+- User wanted a website that consolidated information about various careers.
+- User had a hard time deciding which career seemed like a likely path for her.
+- User seemed to have a hard time finding specific information about careers.
+
+### About NVAccountancy.com
+- I've noticed that the user really liked how there was a lot of information on the website. The user especially liked how the website consolidated information about what it takes to be a CPA. However, one main flaw that the user noticed was how compact the text was, making it hard to read.
+- The user also brought up the idea of attention span. The user acknowledged having a short attention span, so it was preferable to have lesser text.
+- Design was not welcoming, trustworthy, or modern. Better organization of the website was also needed
+- User said that it was a good site to visit if people had an interest in becoming a CPA.
+- When user found something that was personal, she displayed greater attention.
 
 ## Reflection
+Career guidance seemed like a difficult subject for the user, so it would be beneficial for websites about careers to be more welcoming, friendly, and informative. I conducted this study with the expectation that the user would not like the excessive detail, but surprisingly, the user really liked the fact that there was a lot of details and steps to take when trying to become a CPA. This shows that there is benefit with having enough information. Still, the user had a hard time reading through the information, indicating that the website can improve with condensing and organizing its information.
+
+One thing that I would do differently is to ensure there is a stable connection because I had to restart the study (thankfully early on) because my wifi disconnected. Still, one thing that went very smoothly is that the user seemed to understand the questions that I asked and was comfortable with the tasks, so I think that I continue creating a comfortable environment and discussion with the participant for the next time I conduct another study.
