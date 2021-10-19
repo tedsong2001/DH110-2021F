@@ -33,7 +33,7 @@ I chose to conduct a interview research.
 ## The Research
 [Link to the interview script](https://docs.google.com/document/d/1RLetMPfotTPY1Z0LDtU6vs3yOoWlsxdrHSIuc368CZs/edit?usp=sharing)
 
-[Link to the interview recording](https://drive.google.com/file/d/1AidSGXgoEfsFj8fCru8DyhERVUJ5MkTm/view?usp=sharing)
+[Link to the interview recording](https://drive.google.com/file/d/1AidSGXgoEfsFj8fCru8DyhERVUJ5MkTm/view?usp=sharing) (The hyperlink also allows for downloading the recording if the video is still processing)
 
 [Link to the interview transcription](https://docs.google.com/document/d/1siw0NmMnPHEugIO-OXoBEYD9lYPwguE1f4mnEULDZb4/edit?usp=sharing)
 
