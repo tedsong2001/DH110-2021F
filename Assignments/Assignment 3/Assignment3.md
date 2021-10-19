@@ -3,7 +3,7 @@
 
 ## Specifying the Main Design Challenge
 ### What is the main activity your project would support for the users?
-This activity would support users to find more information about a potential government career (or any career). This will help people who are interested in working in a certain industry but are unsure or who are interested in the qualifications necessary for that industry.
+This activity would support users to find more information about being a CPA. This will help people who are interested in working as an accountant but are unsure or who are interested in the qualifications necessary for that industry.
 
 ### What is the basic need/goal involved for that activity?
 The basic need involved for this activity is the user's cognitive needs because they may be curious about a potential career. It may also fulfill the user's safety needs in that people who need to find the requirements of a certain career.
@@ -28,8 +28,13 @@ Users would find information about Nevada CPAs on their devices with Internet on
 Users would look up education requirements and testing requirements entailed when it comes to becoming a CPA in Nevada. Users would also need to find where application forms are. Users would also need to find regulations and policies that CPAs in Nevada need to follow.
 
 ## Research Method
-
+I chose to conduct a interview research.
 
 ## The Research
+[Link to the interview script](https://docs.google.com/document/d/1RLetMPfotTPY1Z0LDtU6vs3yOoWlsxdrHSIuc368CZs/edit?usp=sharing)
+
+Link to the interview recording
+
+Link to the interview transcription 
 
 ## Reflection
