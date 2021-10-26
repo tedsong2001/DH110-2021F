@@ -14,7 +14,7 @@ One method of storytelling is creating personas, where the designer organizes th
 ![Reyna George](ReynaGeorge2.png)
 
 ### Persona 2: Alice Smith
-![Alice Smith](AliceSmith.png)
+![Alice Smith](AliceSmith2.png)
 
 ## Scenarios and Journey Maps
 ### Reyna George's Scenario and Journey Map
