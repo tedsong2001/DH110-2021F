@@ -24,7 +24,7 @@ One method of storytelling is creating personas, where the designer organizes th
 #### How the website can be used
 - To find the updated regulations and policies, Reyna looks at the top menu bar clicks on "Regulations". This takes her to a website of Nevada's legistlation, which features a long list of laws that accountants must follow. Also, at the end of the year, Reyna needs to renew her permit, so she goes to the menu bar on the side and click on the "License Renewal" link under "Renewal / Compliance". Then, she clicks on the button to renew her license and then logs into her account.
 
-
+![Reyna Map](ReynaMap.png)
 
 ### Alice Smith's Scenarios and Journey Map
 #### Why the website is used
