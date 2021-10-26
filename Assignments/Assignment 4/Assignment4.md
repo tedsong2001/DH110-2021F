@@ -11,7 +11,7 @@ One method of storytelling is creating personas, where the designer organizes th
 
 ## Personas and Empathy Maps
 ### Persona 1: Reyna George
-![Reyna George](ReynaGeorge.png)
+![Reyna George](ReynaGeorge2.png)
 
 ### Persona 2: Alice Smith
 ![Alice Smith](AliceSmith.png)
