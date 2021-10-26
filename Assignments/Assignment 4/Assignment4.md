@@ -1,4 +1,4 @@
-# UX Story Telling
+# UX Storytelling
 ### Ted Song | Digital Humanities 110: User Experience and Design
 
 ## The Purpose of UX Storytelling
@@ -7,8 +7,16 @@ Storytelling forces the designer to consider the feelings and experiences of the
 One method of storytelling is creating personas, where the designer organizes the user's characteristics, goals, and sentiments.
 
 ## Proposed Features
-- Better organization of the menu links would allow for the user to have an easier time navigating the website.
-- Bigger fonts and concise texts would prevent users from having to zoom in and use energy to concentrate on hard-to-read and long texts.
+- 
 
-## Personas
+## Personas and Empathy Maps
 ### Persona 1: Reyna George
+![Reyna George](ReynaGeorge.png)
+
+### Persona 2: Alice Smith
+![Alice Smith](AliceSmith.png)
+
+## Scenarios and Journey Maps
+### Reyna George's Scenario and Journey Map
+Reyna George is a certified public accountant (CPA) located in Nevada. She has been a CPA in Nevada for more than 10 years now. Every so often, there are new regulations and policies that CPAs need to follow, and the website for the Nevada State Board of Accountancy ([NVAccountany.com](NVAccountancy.com)) has all the information that she needs. Additionally, Reyna relies on the website to renew her CPA permit annually. So, this website is her go-to site when it comes to her job.
+
