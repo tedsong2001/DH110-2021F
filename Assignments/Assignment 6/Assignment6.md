@@ -24,6 +24,7 @@ To create this interface design, I started with low-fidelity wireframes and digi
 
 ### Color Schemes
 Light Mode (top) and Dark Mode (bottom)
+
 ![color](color_and_dark.png)
 
 ## Decision Making Process
