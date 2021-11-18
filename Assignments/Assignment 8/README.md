@@ -26,8 +26,6 @@ Summary and link to your assignment folder
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450"
-src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fnt8GbxuQnvFVY3Mw0T5Me4%2FHigh-Fidelity-Prototype-(Copy)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
