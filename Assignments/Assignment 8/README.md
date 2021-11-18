@@ -4,7 +4,12 @@
 ## Introduction
 What is the project about? The motivation of the project and possible contribution.
 
-
+<table>
+<tr>
+<td> <img src="nvaccountancy.com" height=”300px”> </td>
+<td> <img src="nvaccountancy.com" height=”300px”> </td>
+</tr>
+</table>
 
 
 ## Clear design statement: 
