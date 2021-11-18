@@ -13,7 +13,7 @@ In this process, the user will attempt to find the types of applicants there are
 - Renewing CPA license
 
 ## Wireflow
-![wireflow](hifi_wireflow.png)
+![wireflow](wireflow_hifi.png)
 
 ## Interactive Prototype
 [Link to Interactive Prototype on Figma](https://www.figma.com/proto/nt8GbxuQnvFVY3Mw0T5Me4/High-Fidelity-Prototype-(Copy)?node-id=89%3A76&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=117%3A29)
