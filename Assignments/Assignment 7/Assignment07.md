@@ -12,3 +12,8 @@ In this process, the user will attempt to find the types of applicants there are
 - Finding the type of applicants for CPA Exam
 - Renewing CPA license
 
+## Wireflow
+![wireflow](hifi_wireflow.png)
+
+## Interactive Prototype
+![Interactive Prototype](https://www.figma.com/proto/nt8GbxuQnvFVY3Mw0T5Me4/High-Fidelity-Prototype-(Copy)?node-id=117%3A29&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=117%3A29&show-proto-sidebar=1)
