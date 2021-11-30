@@ -1,19 +1,18 @@
-# Project title
-### Ted Song
+# A Redesign of Nevada State Board of Accountancy of Website
+### by Ted Song
 
 ## Introduction
-What is the project about? The motivation of the project and possible contribution.
-
-<table>
-<tr>
-<td> <img src="https://github.com/tedsong2001/DH110-2021F/blob/bf8bcc7d4d1cc3d0fac399033a446b455669b61c/Assignments/Assignment%201/nvAccountancy.png" height=”300px”> </td>
-<td> <img src="https://github.com/tedsong2001/DH110-2021F/blob/bf8bcc7d4d1cc3d0fac399033a446b455669b61c/Assignments/Assignment%201/nvAccountancy.png" height=”300px”> </td>
-</tr>
-</table>
+This project was about evaluating a government website and redesigning it to enhance a user's experience of the website.
+The Nevada State Board of Accountancy website is used primarily by people and organizations that work specifically in public accounting.
+Thus, the website is the official source of information when it comes to public accounting in Nevada.
+So, people who already work in Nevada's public accounting may be well versed in using the website.
+However, there is also need to make the website friendly for new users who may be interested in public accounting in Nevada.
+So, the goal for this project was to design the website so that the website is user-friendly for new users but is also not too different for users who were already familiar with the site.
 
 
-## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+
+## Design Statement
+Through this project, 
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
